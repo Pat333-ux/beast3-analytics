@@ -1,0 +1,25 @@
+# Beast 3.0 Analytics & Telemetry Division
+
+The Analytics & Telemetry Division provides continuous monitoring, data aggregation, and operational intelligence across all 21 divisions of the Beast 3.0 ecosystem.
+
+## Mission
+
+Deliver actionable, real-time insights into network throughput, resource allocation efficiency, system latency, and overall ecosystem health.
+
+## Core Responsibilities
+
+- Real-Time Event & Metric Collection
+- Infrastructure & Contract Latency Monitoring
+- Resource Disbursement Analytics
+- Custom Telemetry Pipelines & Reporting Dashboards
+
+## Connected Systems
+
+- Core Control Plane (`div-21-system-orchestrator`)
+- Treasury & Revenue Division (`beast3-treasury-revenue`)
+- Resource Allocation Division (`div-06-resource-alloc`)
+- Cyber Security & Defense Division (`div-07-security-firewall`)
+
+## Status
+
+Development
