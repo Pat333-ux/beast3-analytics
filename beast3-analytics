@@ -1,0 +1,26 @@
+beast3-analytics/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── telemetry-architecture.md
+│   ├── metrics-dictionary.md
+│   └── dashboard-guide.md
+│
+├── src/
+│   ├── core/
+│   │   ├── MetricCollector.ts
+│   │   ├── PerformanceMonitor.ts
+│   │   └── AnalyticsEngine.ts
+│   │
+│   ├── api/
+│   │   └── analytics.ts
+│   │
+│   └── app/
+│       ├── layout.tsx
+│       └── page.tsx
+│
+└── public/
+    └── logo.png
